@@ -1,3 +1,3 @@
-# TV SAT ITALIA – aggiornamenti
+aggiornamenti
 
-Repository per le Release dell’app TV SAT ITALIA.
+Repository per le Release dell’app .
